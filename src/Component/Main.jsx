@@ -27,7 +27,7 @@ const Main = () => {
             <div className="image_editor">
                 <div className="card">
                     <div className="card_header">
-                        <h2>Image Editor</h2>
+                        <h1>Image Editor</h1>
                     </div>
                     <div className="card_body">
                         <div className="sidebar">
